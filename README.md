@@ -37,7 +37,7 @@ aivoa-complaint-system/
 │   ├── agent.py         # LangGraph workflow (6 nodes)
 │   ├── database.py      # SQLAlchemy models
 │   ├── requirements.txt
-│   └── .env.example
+│   └── .env
 ├── frontend/
 │   ├── src/
 │   │   ├── App.jsx      # Main UI (form + AI panel)
